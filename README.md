@@ -1,5 +1,5 @@
 # [Olá :wink: ] 
-Eu sou <strong>Taisa</strong>, <strong>tenho 26 anos, moro na cidade do Recife, estou cursando promagação full stack, uma parceria do porto digital com o senac.</strong> 👨🏻‍💻 
+Eu sou <strong>Taisa</strong>, <strong>tenho 26 anos, moro na cidade do Recife, estou cursando promagação full stack.</strong> 👨🏻‍💻 
 
 - 🚀 Atualmente estou aprendendo: <strong>JavaScript, HTML, CSS e PYTHON</strong> 
 - 💬 Pergunte-me sobre: <strong>Jogos e Séries</strong>
