@@ -1,10 +1,12 @@
-# [Olá] <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="30px">
-
+# [Olá :wink: ] 
 Eu sou <strong>Taisa</strong>, <strong>tenho 26 anos, moro na cidade do Recife, estou cursando promagação full stack, uma parceria do porto digital com o senac.</strong> 👨🏻‍💻 
 
 - 🚀 Atualmente estou aprendendo: <strong>JavaScript, HTML, CSS e PYTHON</strong> 
 - 💬 Pergunte-me sobre: <strong>Jogos e Séries</strong>
 - 📣 Nós podemos falar em: <strong>Português</strong>
+
+![image](https://user-images.githubusercontent.com/132611124/236536121-5fffaece-2d98-44b2-8491-5b8d81aa8ed5.png)
+
 
 <div align="center">
 
