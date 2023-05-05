@@ -1,16 +1,17 @@
-### Hi there 👋
+# [Olá] <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="30px">
 
-<!--
-**ttaisapereira/ttaisapereira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Eu sou <strong>Taisa</strong>, <strong>tenho 26 anos, moro na cidade do Recife, estou cursando promagação full stack, uma parceria do porto digital com o senac.</strong> 👨🏻‍💻 
 
-Here are some ideas to get you started:
+- 🚀 Atualmente estou aprendendo: <strong>JavaScript, HTML, CSS e PYTHON</strong> 
+- 💬 Pergunte-me sobre: <strong>Jogos e Séries</strong>
+- 📣 Nós podemos falar em: <strong>Português</strong>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+
+  <a href="https://outlook.live.com/mail/0/" alt="Gmail">
+    <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-EMAIL"/></a>
+
+  <a href="https://www.linkedin.com/in/taisa-pereira-7aa2701a0/" alt="Linkedin">
+    <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" /></a>
+
+</div>
