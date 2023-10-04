@@ -1,7 +1,7 @@
 # [Olá :wink: ] 
 Eu sou <strong>Taisa</strong>, <strong>tenho 26 anos e estou mergulhando nesse mundo da tecnologia!</strong> 👨🏻‍💻 
 
-- 🚀 Atualmente estou aprendendo: <strong>JavaScript, HTML, CSS e PYTHON</strong> 
+- 🚀 Atualmente estou aprendendo: <strong>Lógica de programação e Python</strong> 
 - 💬 Pergunte-me sobre: <strong>Jogos e Séries</strong>
 - 📣 Nós podemos falar em: <strong>Português</strong>
 
